@@ -1,7 +1,11 @@
 # shadowsocks_install
 关于本脚本：
+
 一键安装 ShadowsocksR 服务端脚本。
-注：本脚本来源于teddysun的一键脚本：https://shadowsocks.be/9.html，并参考了https://www.91yun.org/archives/2079的脚本。
+
+注：本脚本来源于teddysun的一键脚本：https://shadowsocks.be/9.html
+
+并参考了https://www.91yun.org/archives/2079的脚本。
 
 本脚本适用环境：
 系统支持：CentOS6,7，Debian，Ubuntu
